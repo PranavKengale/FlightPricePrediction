@@ -1,5 +1,4 @@
 absl-py==1.0.0
-alabaster @ file:///home/ktietz/src/ci/alabaster_1611921544520/work
 alembic==1.7.5
 anaconda-client==1.7.2
 anaconda-navigator==2.1.1
